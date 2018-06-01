@@ -5,11 +5,5 @@ anass commit3
 anass1 commit4
 
 
-<<<<<<< HEAD
 
-master-commit5
 
-=======
-anass1-commit5
-master-commit5
->>>>>>> anass1
